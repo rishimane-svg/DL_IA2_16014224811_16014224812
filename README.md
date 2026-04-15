@@ -3,13 +3,13 @@ Deep learning IA2
 
 # 🌞 Solar Panel Defect Classification using Deep Learning
 
-## 📌 Overview
+##  Overview
 
 This project focuses on detecting and classifying defects on solar panels using deep learning. Environmental factors like dust, snow, bird droppings, and damages reduce solar panel efficiency. This model automates inspection using image classification.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build a multi-class image classification model that identifies:
 
@@ -22,7 +22,7 @@ To build a multi-class image classification model that identifies:
 
 ---
 
-## 🧠 Model
+##  Model
 
 * **Architecture:** EfficientNet-B3 (Transfer Learning)
 * **Framework:** PyTorch
@@ -31,7 +31,7 @@ To build a multi-class image classification model that identifies:
 
 ---
 
-## ⚙️ Techniques Used
+##  Techniques Used
 
 * Data Augmentation (flip, rotation, color jitter, blur, erasing)
 * Weighted Sampling (class imbalance handling)
@@ -43,7 +43,7 @@ To build a multi-class image classification model that identifies:
 
 ---
 
-## 📊 Results
+## Results
 
 * Validation Accuracy: **86.9%**
 * Test Accuracy: **78.7%**
@@ -52,13 +52,13 @@ To build a multi-class image classification model that identifies:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 [Kaggle Solar Panel Dataset](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -70,21 +70,7 @@ Run notebook:
 jupyter notebook
 ```
 
----
 
-## 📸 Outputs
-
-* Confusion Matrix
-* Training Curves
-* Augmentation Samples
-
----
-
-## 📄 Report
-
-Detailed report available in `/report` folder.
-
----
 
 ## 👨‍💻 Authors
 
