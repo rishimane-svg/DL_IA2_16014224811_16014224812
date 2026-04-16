@@ -1,7 +1,7 @@
 # DL_IA2_16014224811_16014224812
 Deep learning IA2
 
-# 🌞 Solar Panel Defect Classification using Deep Learning
+#  Solar Panel Defect Classification using Deep Learning
 
 ##  Overview
 
