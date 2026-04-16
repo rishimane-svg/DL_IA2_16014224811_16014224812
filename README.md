@@ -72,7 +72,7 @@ jupyter notebook
 
 
 
-## 👨‍💻 Authors
+## Authors
 
 * Rishi Mane
 * Nimit Mehta
